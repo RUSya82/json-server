@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "name": "vgfret",
+      "email": "htreth@fdghgf",
+      "hasChildren": false,
+      "permission": false,
+      "id": 4
+    },
+    {
+      "name": "Суслик12",
+      "email": "max12@max12.cv",
+      "hasChildren": true,
+      "permission": "true",
+      "id": 8
+    },
+    {
+      "name": "Den234",
+      "email": "max@max.cv",
+      "hasChildren": false,
+      "permission": "false",
+      "id": 9
+    },
+    {
+      "name": "Ruslan",
+      "email": "asusalimrr@mail.ruds",
+      "hasChildren": true,
+      "permission": true,
+      "id": 11
+    },
+    {
+      "name": "John",
+      "email": "snow@john.com",
+      "hasChildren": false,
+      "permission": false,
+      "id": 12
+    },
+    {
+      "name": "Аслан",
+      "email": "max@max.cv",
+      "hasChildren": false,
+      "permission": false,
+      "id": 13
+    },
+    {
+      "name": "Аслатан",
+      "email": "jhgfyj@fghhgfh",
+      "hasChildren": false,
+      "permission": false,
+      "id": 14
+    },
+    {
+      "name": "Асисуляй",
+      "email": "sdfs@sdf.dfg",
+      "hasChildren": false,
+      "permission": false,
+      "id": 15
+    }
+  ]
+}
